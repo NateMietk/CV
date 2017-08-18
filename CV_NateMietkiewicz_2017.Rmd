@@ -1,0 +1,205 @@
+---
+title: "CV"
+author: "Nathan Mietkiewicz, Ph. D."
+email: Nathan.Mietkiewicz@Colorado.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/Professional/Portfolio/CV/svm-latex-cv.tex
+  html_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=1in
+github: NateMietk
+jobtitle: Postdoctoral Reserach Fellow, Earth Lab
+linkcolor: blue
+fontawesome: no
+phone: 508 797 2940
+address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
+updated: no
+urlcolor: blue
+---
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Research Interests__ 
+\hfill \break
+\endgroup
+
+I am an ecologist and remote sensing specialist interested in forest dynamics, disturbance interactions, and wildfire, at multiple scales.  My current research links wildfire ignition to the costs, consequences, and pyrogeography of human-driven wildfire across the contiguous USA, specifically in and around the wildland-urban interface (WUI).  I am interested in linking field based data collection, remotely sensed image analysis, and modeling procedures to understand current and future wildfire at the local, regional, and sub-continental level.  Prior research has explored the complex interactions between forest disturbance, varying climatic conditions, and their influence on the abundance of forest fuels and fire behavior in subalpine ecosystems in the Colorado Rocky Mountains, western North America, and the Swiss Alps. 
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Education__
+\hfill \break
+\endgroup
+
+***Clark University, Worcester, MA***
+
+- **Ph. D.** , Geography, 2012 - 2016
+    - *Dissertation Title*: Interactions of spruce beetle outbreak and wildland fire in Colorado: legacies and future projections under a changing climate.
+    - *Advisor*: Dr. Dominik Kulakowski
+
+- **M.A.** , Geography, 2015
+
+- **M.S.** , GIS for Development and Environment, 2010-2013
+    - *Thesis*: A century of ecological change in a subalpine forest of the Swiss Alps.
+    - *Advisors*: Dr. Dominik Kulakowski, Dr. John Rogan, Dr. Peter Bebi
+
+***University of Maine, Orono, ME***
+
+- **B.S.** , Earth Science, 2009
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Peer-reviewed Publications__
+\hfill \break
+\endgroup
+
+**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Disturbance legacies and forest fuel loads in the southern Rocky Mountains, CO, USA*. In review in Ecological Applications.
+
+**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. In preparation.
+
+**Mietkiewicz, N.**, J. K. Balch, L. St. Denis, B. Bradley, T. Schoennagel. *Human-ignited fires at the wildland-urban interface: consequences and costs*. In preparation.
+
+**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. *A century of ecological change in a subalpine forest landscape of the Swiss Alps*. Journal of Vegetation Science. DOI: 10.1111/jvs.12561
+
+Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
+
+**Mietkiewicz, N.**, and D. Kulakowski. 2016. R*elative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
+
+Bakaj, F., **N. Mietkiewicz**, T. T. Veblen, and D. Kulakowski. 2016. *The relative importance of tree and stand properties in susceptibility to spruce beetle outbreak in the mid-20th century*. Ecosphere 7(10):e01485. 10.1002/ecs2.1485 
+
+Hart, S. J., T. T. Veblen, **N. Mietkiewicz**, and D. Kulakowski. 2015. *Negative Feedbacks on Bark Beetle Outbreaks: Widespread and Severe Spruce Beetle Infestation Restricts Subsequent Infestation*. PLoS ONE 10:e0127975.
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Book Chapters__
+\hfill \break
+\endgroup
+
+Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Grants, Awards, and Fellowships__
+\endgroup
+
+\begin{tabular}{@{}ll@{}}
+2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
+     & \$300 - Marion I. Wright ’46 Travel Award, Fall 2015                                                                         \\
+     & \$250 - Pruser Dissertation Enhancement Award                                                                                \\
+     & \$300 - Graduate Student Council Travel Award, Spring 2016                                                                   \\
+     &                                                                                                                              \\
+2013 & \$300 - Marion I. Wright ’46 Travel Award, Fall 2013                                                                         \\
+     & \$300 - Marion I. Wright ’46 Travel Award, Spring 2013                                                                       \\
+     & \$750 - Pruser Dissertation Enhancement Award                                                                                \\
+     &                                                                                                                              \\
+2012 & \$4,000 - Libbey Enhancement Award                                                                                           \\
+     & \$55,000 - Full tuition remission and stipend (5 years, approx. per year)                                                    \\
+     &                                                                                                                              \\
+2010 & \begin{tabular}[c]{@{}l@{}}\$15,980 - Awarded scholarship towards Master’s degree (2 years, approx. per\\ year)\end{tabular} \\
+     &                                                                                                                            
+\end{tabular}
+
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Research Appointments__
+\endgroup
+
+
+\begin{tabular}{@{}cl@{}}
+2016 -               & Postdoctoral Research Fellow, Earth Lab, University of Colorado, Boulder                     \\ 
+\multicolumn{1}{l}{} &                                                                                              \\
+2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
+                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
+                     & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
+\multicolumn{1}{l}{} & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
+\multicolumn{1}{l}{} &                                                                                              \\ 
+\end{tabular}
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Teaching Appointments__
+\hfill \break
+\endgroup
+
+\begin{tabular}{@{}llll@{}}
+\multicolumn{4}{l}{\textbf{Faculty Positions}}                                             \\
+ & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
+ &  & 2015 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.6/5                      \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+\multicolumn{4}{l}{\textbf{Teaching Assistant Positions}}                                  \\
+ & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
+ &  & 2015 & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.94/5 \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+ &  & 2014 & Introduction to Remote Sensing (GEOG 383); Overall Effectiveness = 4.89/5     \\
+ &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+ &  & 2013 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.62/5                     \\
+ &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
+ &  &      &                                                                               \\
+ &  & 2012 & Earth System Science (GEOG 104); Overall Effectiveness = 4.97/5              
+\end{tabular}
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Professional Presentations__
+\hfill \break
+\endgroup
+
+2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., *Human-ignited fires at the wildland-urban interface: consequences and costs*.  Presentation at the Ecological Society of America Portland, OR, USA.
+
+2016 **Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. Paper presentation at the Association of American Geographers, San Francisco, CA.
+
+2016 **Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. Poster presentation at the 5th International Fire Behavior and Fuels Conference, Portland, OR
+
+2014 **Mietkiewicz, N.**, Kulakowski, D. *How do spruce beetle outbreaks affect fuel loads in the southern Rocky Mountains, CO*. Paper presented at the Association of American Geographers, Tampa, FL.
+
+2013 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *Identifying sub-continental drivers of wildland fire under a varying climate*. Paper presented at New England-St. Lawrence Valley Geographical Society (NESTVAL), Worcester, MA.
+
+2013 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *What are the landscape requirements preceding wildland fire occurrence?* Paper presented and Biogeography session chaired at the Annual Conference of the Association of American Geographers, Los Angeles, CA.
+
+2012 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *A century of ecological change in a subalpine forest of the Swiss Alps*. Paper presented at the Annual Conference of the Association of American Geographers, New York, NY.
+
+\begingroup
+    \fontsize{12pt}{12pt}\selectfont
+\hfill \break
+__Outreach, Synergistic Activities, and Professional Development__
+\hfill \break
+\endgroup
+
+2017 **Invited Speaker** at the Wildfire Information Development Workshop, Boulder, CO, USA. Entitled: Human-ignited fires at the wildland-urban interface: case study for using ICS-209s.  
+
+2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO
+
+2017 **Invited Speaker** at the Earth Science & Observation Center  Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
+
+2014 **Participant** in a Seminar in College Teaching, Certificate in College Teaching. Colleges of Worcester Consortium, Inc.
+
+2014 **Professional exhibitor** representing Clark Labs at the Annual Conference of the Association of American Geographers, Tampa, FL.
+
+2014 **Professional exhibitor** representing Clark Labs at the American Society for Photogrammetry and Remote Sensing, Baltimore, MD.
+
+2013 **Professional exhibitor** representing Clark Labs at the Annual Conference of the Association of American Geographers, Los Angeles, CA.
+
