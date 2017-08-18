@@ -5,7 +5,7 @@ email: Nathan.Mietkiewicz@Colorado.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/Portfolio/CV/svm-latex-cv.tex
+    template: ~/Dropbox/Professional/Portfolio/CV/src/svm-latex-cv.tex
   html_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -189,9 +189,11 @@ __Outreach, Synergistic Activities, and Professional Development__
 \hfill \break
 \endgroup
 
+2017 **Participant** at the Rocky Mountain Advanced Computing Consortium 2017, University of Colorado, Boulder, CO.
+
 2017 **Invited Speaker** at the Wildfire Information Development Workshop, Boulder, CO, USA. Entitled: Human-ignited fires at the wildland-urban interface: case study for using ICS-209s.  
 
-2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO
+2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO.
 
 2017 **Invited Speaker** at the Earth Science & Observation Center  Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
 
