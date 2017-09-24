@@ -1,2 +1,5 @@
-# CV
-Most current professional curriculum vitae.  Can be found in pdf and Rmarkdown form within the src folder.
+Curriculum Vitae
+================
+
+This is the working and most current version of my professional curriculum vitae.  It can be found in both pdf and RMarkdown format.
+ 
