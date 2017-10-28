@@ -168,6 +168,8 @@ __Professional Presentations__
 \hfill \break
 \endgroup
 
+2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. * United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
+
 2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., *Human-ignited fires at the wildland-urban interface: consequences and costs*.  Presentation at the Ecological Society of America Portland, OR, USA.
 
 2016 **Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. Paper presentation at the Association of American Geographers, San Francisco, CA.
@@ -195,7 +197,7 @@ __Outreach, Synergistic Activities, and Professional Development__
 
 2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO.
 
-2017 **Invited Speaker** at the Earth Science & Observation Center  Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
+2017 **Invited Speaker** at the Earth Science & Observation Center Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
 
 2014 **Participant** in a Seminar in College Teaching, Certificate in College Teaching. Colleges of Worcester Consortium, Inc.
 
