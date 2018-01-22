@@ -34,7 +34,9 @@ urlcolor: black
 - **M.S.**, GIS for Development and Environment, 2010-2013
     - *Thesis*: A century of ecological change in a subalpine forest of the Swiss Alps.
     - *Advisors*: Dr. Dominik Kulakowski, Dr. John Rogan, Dr. Peter Bebi
+
 **University of Maine, Orono, ME**
+
 - **B.S.**, Earth Science, 2009
 
 # Peer-reviewed Publications 
