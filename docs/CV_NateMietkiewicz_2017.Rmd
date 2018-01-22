@@ -1,104 +1,89 @@
 ---
-title: "CV"
-author: "Nathan Mietkiewicz, Ph. D."
-email: Nathan.Mietkiewicz@Colorado.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/Portfolio/CV/src/svm-latex-cv.tex
-  html_document: default
+    template: ~/Dropbox/Professional/Portfolio/CV/docs/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: "Nathan Mietkiewicz, Ph. D."
+email: Nathan.Mietkiewicz@Colorado.edu
+jobtitle: Postdoctoral Reserach Fellow, Earth Lab
+
+github: NateMietk
+phone: 508 797 2940
+address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
+web: nathanmietkiewicz.com
+
+fontawesome: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
-geometry: margin=1in
-github: NateMietk
-jobtitle: Postdoctoral Reserach Fellow, Earth Lab
-linkcolor: blue
-fontawesome: no
-phone: 508 797 2940
-address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
-updated: no
-urlcolor: blue
+linkcolor: black
+urlcolor: black
+
 ---
+# Education
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Research Interests__ 
-\hfill \break
-\endgroup
+**Clark University, Worcester, MA**
 
-I am an ecologist and remote sensing specialist interested in forest dynamics, disturbance interactions, and wildfire, at multiple scales.  My current research links wildfire ignition to the costs, consequences, and pyrogeography of human-driven wildfire across the contiguous USA, specifically in and around the wildland-urban interface (WUI).  I am interested in linking field based data collection, remotely sensed image analysis, and modeling procedures to understand current and future wildfire at the local, regional, and sub-continental level.  Prior research has explored the complex interactions between forest disturbance, varying climatic conditions, and their influence on the abundance of forest fuels and fire behavior in subalpine ecosystems in the Colorado Rocky Mountains, western North America, and the Swiss Alps. 
-
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Education__
-\hfill \break
-\endgroup
-
-***Clark University, Worcester, MA***
-
-- **Ph. D.** , Geography, 2012 - 2016
+- **Ph. D.**, Geography, 2012 - 2016
     - *Dissertation Title*: Interactions of spruce beetle outbreak and wildland fire in Colorado: legacies and future projections under a changing climate.
     - *Advisor*: Dr. Dominik Kulakowski
-
-- **M.A.** , Geography, 2015
-
-- **M.S.** , GIS for Development and Environment, 2010-2013
+- **M.A.**, Geography, 2015
+- **M.S.**, GIS for Development and Environment, 2010-2013
     - *Thesis*: A century of ecological change in a subalpine forest of the Swiss Alps.
     - *Advisors*: Dr. Dominik Kulakowski, Dr. John Rogan, Dr. Peter Bebi
+**University of Maine, Orono, ME**
+- **B.S.**, Earth Science, 2009
 
-***University of Maine, Orono, ME***
+# Peer-reviewed Publications 
 
-- **B.S.** , Earth Science, 2009
-
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Peer-reviewed Publications__
-\hfill \break
-\endgroup
-
-**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Disturbance legacies and forest fuel loads in the southern Rocky Mountains, CO, USA*. In review in Ecological Applications.
+**Mietkiewicz, N.**, J. K. Balch, T. Schoennagel, L. St. Denis, B. Bradley. *Costs of human-ignited wildfires in the U.S. (2001-2015)-from the Wildland-Urban Interface to wildlands*. In review. Proceedings of the National Academy of Sciences
 
 **Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. In preparation.
 
-**Mietkiewicz, N.**, J. K. Balch, L. St. Denis, B. Bradley, T. Schoennagel. *Human-ignited fires at the wildland-urban interface: consequences and costs*. In preparation.
+**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Disturbance legacies and forest fuel loads in the southern Rocky Mountains, CO, USA*. In press. Ecological Applications.
 
-**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. *A century of ecological change in a subalpine forest landscape of the Swiss Alps*. Journal of Vegetation Science. DOI: 10.1111/jvs.12561
+**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. *Long-term change in sub-alpine forest cover, tree line and species composition in the Swiss Alps*. Journal of Vegetation Science. 28:951-964. DOI: 10.1111/jvs.12561
 
 Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
 
-**Mietkiewicz, N.**, and D. Kulakowski. 2016. R*elative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
+**Mietkiewicz, N.** and D. Kulakowski. 2016. R*elative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
 
 Bakaj, F., **N. Mietkiewicz**, T. T. Veblen, and D. Kulakowski. 2016. *The relative importance of tree and stand properties in susceptibility to spruce beetle outbreak in the mid-20th century*. Ecosphere 7(10):e01485. 10.1002/ecs2.1485 
 
 Hart, S. J., T. T. Veblen, **N. Mietkiewicz**, and D. Kulakowski. 2015. *Negative Feedbacks on Bark Beetle Outbreaks: Widespread and Severe Spruce Beetle Infestation Restricts Subsequent Infestation*. PLoS ONE 10:e0127975.
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Book Chapters__
-\hfill \break
-\endgroup
+# Book Chapters
 
 Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Grants, Awards, and Fellowships__
-\endgroup
-
+# Grants, Awards, and Fellowships
 \begin{tabular}{@{}ll@{}}
+2018 & \$250,000 - Co-PI, Submitted - USGS Powell Center Working Group 
+                            \\
+    & One fire: Defining modern U.S. fire regimes by synthesizing existing data
+                            \\
+    & \$1,600,000 - Senior Personnel, Submitted - National Science Foundation: Coupled Natural-Human  Systems                            \\
+     &  Human settlements in flammable U.S. landscapes: How will people coexist with wildfire? 
+                            \\
+     &                                                                                                                              \\
+2017 & \$1,852,683 - Co-PI, Submitted - National Science Foundation: Macrosystems
+                            \\
+     &  Macroscale Resilience: Understanding how forests recover after beetle-kill, fire, and drought  
+                            \\
+     & by linking observations—from single trees to the western U.S.
+                            \\
+     & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
+                            \\
+     &                                                                                                                              \\
 2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
      & \$300 - Marion I. Wright ’46 Travel Award, Fall 2015                                                                         \\
      & \$250 - Pruser Dissertation Enhancement Award                                                                                \\
      & \$300 - Graduate Student Council Travel Award, Spring 2016                                                                   \\
      &                                                                                                                              \\
-2013 & \$300 - Marion I. Wright ’46 Travel Award, Fall 2013                                                                         \\
-     & \$300 - Marion I. Wright ’46 Travel Award, Spring 2013                                                                       \\
+2013 & \$600 - Marion I. Wright ’46 Travel Award, Spring/Fall 2013                                                                         \\
      & \$750 - Pruser Dissertation Enhancement Award                                                                                \\
      &                                                                                                                              \\
 2012 & \$4,000 - Libbey Enhancement Award                                                                                           \\
@@ -109,13 +94,7 @@ __Grants, Awards, and Fellowships__
 \end{tabular}
 
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Research Appointments__
-\endgroup
-
-
+# Research Appointments
 \begin{tabular}{@{}cl@{}}
 2016 -               & Postdoctoral Research Fellow, Earth Lab, University of Colorado, Boulder                     \\ 
 \multicolumn{1}{l}{} &                                                                                              \\
@@ -136,12 +115,7 @@ __Research Appointments__
 \multicolumn{1}{l}{} &                                                                                              \\ 
 \end{tabular}
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Teaching Appointments__
-\hfill \break
-\endgroup
+# Teaching Appointments
 
 \begin{tabular}{@{}llll@{}}
 \multicolumn{4}{l}{\textbf{Faculty Positions}}                                             \\
@@ -161,14 +135,9 @@ __Teaching Appointments__
  &  & 2012 & Earth System Science (GEOG 104); Overall Effectiveness = 4.97/5              
 \end{tabular}
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Professional Presentations__
-\hfill \break
-\endgroup
+# Professional Presentations
 
-2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. * United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
+2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. *United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
 
 2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., *Human-ignited fires at the wildland-urban interface: consequences and costs*.  Presentation at the Ecological Society of America Portland, OR, USA.
 
@@ -184,12 +153,9 @@ __Professional Presentations__
 
 2012 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *A century of ecological change in a subalpine forest of the Swiss Alps*. Paper presented at the Annual Conference of the Association of American Geographers, New York, NY.
 
-\begingroup
-    \fontsize{12pt}{12pt}\selectfont
-\hfill \break
-__Outreach, Synergistic Activities, and Professional Development__
-\hfill \break
-\endgroup
+# Outreach, Synergistic Activities, and Professional Development
+
+2017 **Invited Speaker** in an undergraduate class, Introduction to Physical Geography, University of Colorado, Boulder, CO.
 
 2017 **Participant** at the Rocky Mountain Advanced Computing Consortium 2017, University of Colorado, Boulder, CO.
 
