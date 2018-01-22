@@ -175,3 +175,10 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests
 
+# Skills
+
+**Applications**: QGis, ArcGIS, IDRISI, Adobe Illustrator/Photoshop,  RStudio,  RMarkdown, Docker, GitHub, Amazon Web Services (S3, EC2)
+
+**Programming**: R
+
+
