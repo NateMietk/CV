@@ -2,7 +2,7 @@
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/Portfolio/CV/docs/svm-latex-cv.tex
+    template: ~/Dropbox/Professional/portfolio/cv/docs/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "CV"
@@ -41,17 +41,15 @@ urlcolor: black
 
 # Peer-reviewed Publications 
 
-**Mietkiewicz, N.**, J. K. Balch, T. Schoennagel, L. St. Denis, B. Bradley. *Costs of human-ignited wildfires in the U.S. (2001-2015)-from the Wildland-Urban Interface to wildlands*. In review. Proceedings of the National Academy of Sciences
+Balch, J., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
 
-**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Spruce beetle legacies on fire behavior under a varying climate in CO, USA*. In preparation.
+**Mietkiewicz, N.**, D. Kulakowski, and T. T. Veblen 2018. *Pre‐outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels in subalpine forests of Colorado*. Ecological Applications 28:457-472.
 
-**Mietkiewicz, N.**, D. Kulakowski, and T.T. Veblen. *Disturbance legacies and forest fuel loads in the southern Rocky Mountains, CO, USA*. In press. Ecological Applications.
-
-**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. *Long-term change in sub-alpine forest cover, tree line and species composition in the Swiss Alps*. Journal of Vegetation Science. 28:951-964. DOI: 10.1111/jvs.12561
+**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. 2017. *Long-term change in sub-alpine forest cover, tree line and species composition in the Swiss Alps*. Journal of Vegetation Science. 28:951-964. DOI: 10.1111/jvs.12561
 
 Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
 
-**Mietkiewicz, N.** and D. Kulakowski. 2016. R*elative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
+**Mietkiewicz, N.** and D. Kulakowski. 2016. *Relative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
 
 Bakaj, F., **N. Mietkiewicz**, T. T. Veblen, and D. Kulakowski. 2016. *The relative importance of tree and stand properties in susceptibility to spruce beetle outbreak in the mid-20th century*. Ecosphere 7(10):e01485. 10.1002/ecs2.1485 
 
@@ -63,21 +61,7 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 # Grants, Awards, and Fellowships
 \begin{tabular}{@{}ll@{}}
-2018 & \$250,000 - Co-PI, Submitted - USGS Powell Center Working Group 
-                            \\
-    & One fire: Defining modern U.S. fire regimes by synthesizing existing data
-                            \\
-    & \$1,600,000 - Senior Personnel, Submitted - National Science Foundation: Coupled Natural-Human  Systems                            \\
-     &  Human settlements in flammable U.S. landscapes: How will people coexist with wildfire? 
-                            \\
-     &                                                                                                                              \\
-2017 & \$1,852,683 - Co-PI, Submitted - National Science Foundation: Macrosystems
-                            \\
-     &  Macroscale Resilience: Understanding how forests recover after beetle-kill, fire, and drought  
-                            \\
-     & by linking observations—from single trees to the western U.S.
-                            \\
-     & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
+2017 & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
                             \\
      &                                                                                                                              \\
 2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
@@ -139,7 +123,7 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 # Professional Presentations
 
-2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. *United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
+2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. *Drivers of historic and future wildfire occurrence across the United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
 
 2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., *Human-ignited fires at the wildland-urban interface: consequences and costs*.  Presentation at the Ecological Society of America Portland, OR, USA.
 
