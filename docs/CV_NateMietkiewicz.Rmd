@@ -28,18 +28,49 @@ urlcolor: black
 **Clark University, Worcester, MA**
 
 - **Ph. D.**, Geography, 2012 - 2016
-    - *Dissertation Title*: Interactions of spruce beetle outbreak and wildland fire in Colorado: legacies and future projections under a changing climate.
-    - *Advisor*: Dr. Dominik Kulakowski
 - **M.A.**, Geography, 2015
-- **M.S.**, GIS for Development and Environment, 2010-2013
-    - *Thesis*: A century of ecological change in a subalpine forest of the Swiss Alps.
-    - *Advisors*: Dr. Dominik Kulakowski, Dr. John Rogan, Dr. Peter Bebi
+- **M.S.**, GIS for Development and Environment, 2010-2012
 
 **University of Maine, Orono, ME**
 
 - **B.S.**, Earth Science, 2009
 
+# Current research appointment
+**Postdoctoral Research Fellow** \hfill 2016--present
+
+*Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
+
+Leading cutting edge research in wildfire ecology, with particular focus on understanding the consequences of human-started wildfire in and around the wildland-urban interface (WUI). Some of my daily tasks include:
+
+- -Deploying geospatial, reproducible workflows in a salable, cloud-compute environments via Amazon Web Services (AWS) via Docker Hub and GitHub to build stable, collaborative work environments across platforms
+- -Writing clean, efficient code to download, process, and analyze big geospatial data ranging, but not limited to, satellite imagery, satellite derived products, governmental records, and climate time-series at local to national scales to answer landscape to continental scale questions
+- -Building out and optimizing statistical models using a variety of techniques, including generalized linear mixed models, random forests, supervised and unsupervised classifications, neural networks, and other machine learning algorithms.
+- -Mentoring/managing graduate level interns and research assistants.
+
+# Past research Appointments
+\begin{tabular}{@{}cl@{}}
+2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
+                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
+                     & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
+\multicolumn{1}{l}{} &                                                                                              \\
+2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
+\multicolumn{1}{l}{} & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
+\multicolumn{1}{l}{} &                                                                                              \\ 
+\end{tabular}
+
 # Peer-reviewed Publications 
+
+**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (submitted) *Consequences of human-ignited wildfires in the US: from the Wildland-Urban Interface to wildlands*. Nature Sustainability.
+
+Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (submitted) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications.
 
 Balch, J., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
 
@@ -62,14 +93,14 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 # Grants, Awards, and Fellowships
 \begin{tabular}{@{}ll@{}}
 2017 & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
-                            \\
+               \\
      &                                                                                                                              \\
 2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
      & \$300 - Marion I. Wright ’46 Travel Award, Fall 2015                                                                         \\
      & \$250 - Pruser Dissertation Enhancement Award                                                                                \\
      & \$300 - Graduate Student Council Travel Award, Spring 2016                                                                   \\
      &                                                                                                                              \\
-2013 & \$600 - Marion I. Wright ’46 Travel Award, Spring/Fall 2013                                                                         \\
+2013 & \$600 - Marion I. Wright ’46 Travel Award, Spring/Fall 2013                                                                  \\
      & \$750 - Pruser Dissertation Enhancement Award                                                                                \\
      &                                                                                                                              \\
 2012 & \$4,000 - Libbey Enhancement Award                                                                                           \\
@@ -77,28 +108,6 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
      &                                                                                                                              \\
 2010 & \begin{tabular}[c]{@{}l@{}}\$15,980 - Awarded scholarship towards Master’s degree (2 years, approx. per\\ year)\end{tabular} \\
      &                                                                                                                            
-\end{tabular}
-
-
-# Research Appointments
-\begin{tabular}{@{}cl@{}}
-2016 -               & Postdoctoral Research Fellow, Earth Lab, University of Colorado, Boulder                     \\ 
-\multicolumn{1}{l}{} &                                                                                              \\
-2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
-                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
-\multicolumn{1}{l}{} &                                                                                              \\
-2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
-\multicolumn{1}{l}{} &                                                                                              \\
-2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
-                     & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
-\multicolumn{1}{l}{} &                                                                                              \\
-2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
-\multicolumn{1}{l}{} &                                                                                              \\
-2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
-\multicolumn{1}{l}{} &                                                                                              \\
-2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
-\multicolumn{1}{l}{} & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
-\multicolumn{1}{l}{} &                                                                                              \\ 
 \end{tabular}
 
 # Teaching Appointments
@@ -159,12 +168,12 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 2013 **Professional exhibitor** representing Clark Labs at the Annual Conference of the Association of American Geographers, Los Angeles, CA.
 
-Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests
+Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests, Ecography
 
-# Skills
+# Technology Proficiencies
 
-**Applications**: QGis, ArcGIS, IDRISI, Adobe Illustrator/Photoshop,  RStudio,  RMarkdown, Docker, GitHub, Amazon Web Services (S3, EC2)
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
 
-**Programming**: R
+**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
 
 
