@@ -1,27 +1,25 @@
 ---
+title: "CV"
+author: "Nathan Mietkiewicz, Ph. D."
+email: Nathan.Mietkiewicz@Colorado.edu
 output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/Professional/portfolio/cv/docs/svm-latex-cv.tex
-geometry: margin=1in
-
-title: "CV"
-author: "Nathan Mietkiewicz, Ph. D."
-email: Nathan.Mietkiewicz@Colorado.edu
-jobtitle: Postdoctoral Reserach Fellow, Earth Lab
-
-github: NateMietk
-phone: 508 797 2940
-address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
-web: nathanmietkiewicz.com
-
-fontawesome: yes
+  html_document:
+    df_print: paged
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
+geometry: margin=1in
+github: NateMietk
+jobtitle: Postdoctoral Reserach Fellow, Earth Lab
 linkcolor: black
+fontawesome: yes
+phone: 508 797 2940
+address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
 urlcolor: black
-
+web: nathanmietkiewicz.com
 ---
 # Education
 
@@ -40,7 +38,7 @@ urlcolor: black
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-Leading cutting edge research in wildfire ecology, with particular focus on understanding the consequences of human-started wildfire in and around the wildland-urban interface (WUI). Some of my daily tasks include:
+Leading cutting-edge research to examine how short and long-term alterations of disturbance regimes, including novel climate and fire cycles, alters ecosystem function and human vulnerability. Some of my daily tasks include:
 
 - -Deploying geospatial, reproducible workflows in a salable, cloud-compute environments via Amazon Web Services (AWS) via Docker Hub and GitHub to build stable, collaborative work environments across platforms
 - -Writing clean, efficient code to download, process, and analyze big geospatial data ranging, but not limited to, satellite imagery, satellite derived products, governmental records, and climate time-series at local to national scales to answer landscape to continental scale questions
@@ -48,27 +46,27 @@ Leading cutting edge research in wildfire ecology, with particular focus on unde
 - -Mentoring/managing graduate level interns and research assistants.
 
 # Past research Appointments
-\begin{tabular}{@{}cl@{}}
+\begin{tabular}{p{1cm}|p{15cm}}
 2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
                      & Forest Ecology Research Laboratory Manager, Clark University                                 \\
-\multicolumn{1}{l}{} &                                                                                              \\
+ &                                                                                              \\
 2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
-\multicolumn{1}{l}{} &                                                                                              \\
+ &                                                                                              \\
 2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
                      & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
-\multicolumn{1}{l}{} &                                                                                              \\
+ &                                                                                              \\
 2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
-\multicolumn{1}{l}{} &                                                                                              \\
+ &                                                                                              \\
 2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
-\multicolumn{1}{l}{} &                                                                                              \\
+ &                                                                                              \\
 2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
-\multicolumn{1}{l}{} & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
-\multicolumn{1}{l}{} &                                                                                              \\ 
+ & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
+ &                                                                                              \\ 
 \end{tabular}
 
 # Peer-reviewed Publications 
 
-**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (submitted) *Consequences of human-ignited wildfires in the US: from the Wildland-Urban Interface to wildlands*. Nature Sustainability.
+**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (submitted) *Consequences of human-ignited wildfires in the US: from the Wildland-Urban Interface to wildlands*. Nature Communications
 
 Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (submitted) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications.
 
@@ -86,14 +84,21 @@ Bakaj, F., **N. Mietkiewicz**, T. T. Veblen, and D. Kulakowski. 2016. *The relat
 
 Hart, S. J., T. T. Veblen, **N. Mietkiewicz**, and D. Kulakowski. 2015. *Negative Feedbacks on Bark Beetle Outbreaks: Widespread and Severe Spruce Beetle Infestation Restricts Subsequent Infestation*. PLoS ONE 10:e0127975.
 
+# Pre-prints
+
+Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. 2018. Understanding and predicting extreme wildfires in the contiguous United States. bioRxiv; doi: https://doi.org/10.1101/384115
+
 # Book Chapters
 
 Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
 
 # Grants, Awards, and Fellowships
-\begin{tabular}{@{}ll@{}}
+\begin{tabular}{p{1cm}|p{15cm}}
+2018 & \$1,758,933 - PREEVENTS Track 2: Coupled extremes: Understanding and predicting how droughts, fires, and floods interact. Senior Personal. Pending.\\
+     & \$931,768 - CAREER: Fire impacts on forest carbon recovery in a warming world: training the next generation of Earth analysts by exploring a missing scale of observations. Postdoctoral Associate Support. Pending. \\
+     &                                                                                                                              \\
 2017 & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
-               \\
+                                               \\
      &                                                                                                                              \\
 2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
      & \$300 - Marion I. Wright ’46 Travel Award, Fall 2015                                                                         \\
@@ -149,6 +154,8 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 2012 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *A century of ecological change in a subalpine forest of the Swiss Alps*. Paper presented at the Annual Conference of the Association of American Geographers, New York, NY.
 
 # Outreach, Synergistic Activities, and Professional Development
+
+2018 **Invite Participant** in the Environmental Extremes CodeFest, Univeristy of Colorado, Boulder, CO.
 
 2017 **Invited Speaker** in an undergraduate class, Introduction to Physical Geography, University of Colorado, Boulder, CO.
 
