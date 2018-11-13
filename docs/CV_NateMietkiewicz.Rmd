@@ -26,11 +26,13 @@ web: nathanmietkiewicz.com
 **Clark University, Worcester, MA**
 
 - **Ph. D.**, Geography, 2012 - 2016
+    - *Dissertation Title*: Interactions of spruce beetle outbreak and wildland fire in Colorado: legacies and future projections under a changing climate.
+    - *Advisor*: Dr. Dominik Kulakowski
 - **M.A.**, Geography, 2015
-- **M.S.**, GIS for Development and Environment, 2010-2012
-
+- **M.S.**, GIS for Development and Environment, 2010-2013
+    - *Thesis*: A century of ecological change in a subalpine forest of the Swiss Alps.
+    - *Advisors*: Dr. Dominik Kulakowski, Dr. John Rogan, Dr. Peter Bebi
 **University of Maine, Orono, ME**
-
 - **B.S.**, Earth Science, 2009
 
 # Current research appointment
@@ -38,12 +40,12 @@ web: nathanmietkiewicz.com
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-Leading cutting-edge research to examine how short and long-term alterations of disturbance regimes, including novel climate and fire cycles, alters ecosystem function and human vulnerability. Some of my daily tasks include:
-
-- -Deploying geospatial, reproducible workflows in a salable, cloud-compute environments via Amazon Web Services (AWS) via Docker Hub and GitHub to build stable, collaborative work environments across platforms
-- -Writing clean, efficient code to download, process, and analyze big geospatial data ranging, but not limited to, satellite imagery, satellite derived products, governmental records, and climate time-series at local to national scales to answer landscape to continental scale questions
-- -Building out and optimizing statistical models using a variety of techniques, including generalized linear mixed models, random forests, supervised and unsupervised classifications, neural networks, and other machine learning algorithms.
-- -Mentoring/managing graduate level interns and research assistants.
+- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
+- -Wrote clean, efficient, reproducible code to analyze big geospatial data
+- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
+- -Mentored/managed undergraduate and graduate level interns and research assistants.
+- -Authored and co-authored 7 peer-review publications 
+- -Co-authored over $5 million in research grant proposals
 
 # Past research Appointments
 \begin{tabular}{p{1cm}|p{15cm}}
@@ -92,6 +94,26 @@ Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L
 
 Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
 
+# Teaching Appointments
+
+\begin{tabular}{@{}llll@{}}
+\multicolumn{4}{l}{\textbf{Faculty Positions}}                                             \\
+ & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
+ &  & 2015 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.6/5                      \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+\multicolumn{4}{l}{\textbf{Teaching Assistant Positions}}                                  \\
+ & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
+ &  & 2015 & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.94/5 \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+ &  & 2014 & Introduction to Remote Sensing (GEOG 383); Overall Effectiveness = 4.89/5     \\
+ &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
+ &  &      & \multicolumn{1}{c}{}                                                          \\
+ &  & 2013 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.62/5                     \\
+ &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
+ &  &      &                                                                               \\
+ &  & 2012 & Earth System Science (GEOG 104); Overall Effectiveness = 4.97/5              
+\end{tabular}
+
 # Grants, Awards, and Fellowships
 \begin{tabular}{p{1cm}|p{15cm}}
 2018 & \$1,758,933 - PREEVENTS Track 2: Coupled extremes: Understanding and predicting how droughts, fires, and floods interact. Senior Personal. Pending.\\
@@ -113,26 +135,6 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
      &                                                                                                                              \\
 2010 & \begin{tabular}[c]{@{}l@{}}\$15,980 - Awarded scholarship towards Master’s degree (2 years, approx. per\\ year)\end{tabular} \\
      &                                                                                                                            
-\end{tabular}
-
-# Teaching Appointments
-
-\begin{tabular}{@{}llll@{}}
-\multicolumn{4}{l}{\textbf{Faculty Positions}}                                             \\
- & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
- &  & 2015 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.6/5                      \\
- &  &      & \multicolumn{1}{c}{}                                                          \\
-\multicolumn{4}{l}{\textbf{Teaching Assistant Positions}}                                  \\
- & \multicolumn{3}{l}{\textit{Clark University}}                                           \\
- &  & 2015 & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.94/5 \\
- &  &      & \multicolumn{1}{c}{}                                                          \\
- &  & 2014 & Introduction to Remote Sensing (GEOG 383); Overall Effectiveness = 4.89/5     \\
- &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
- &  &      & \multicolumn{1}{c}{}                                                          \\
- &  & 2013 & Forest Ecology (GEOG 116); Overall Effectiveness = 4.62/5                     \\
- &  &      & Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 4.74/5 \\
- &  &      &                                                                               \\
- &  & 2012 & Earth System Science (GEOG 104); Overall Effectiveness = 4.97/5              
 \end{tabular}
 
 # Professional Presentations
