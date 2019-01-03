@@ -35,42 +35,11 @@ web: nathanmietkiewicz.com
 **University of Maine, Orono, ME**
 - **B.S.**, Earth Science, 2009
 
-# Current research appointment
-**Postdoctoral Research Associate** \hfill 2016--present
-
-*Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
-
-- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
-- -Wrote clean, efficient, reproducible code to analyze big geospatial data
-- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
-- -Mentored/managed undergraduate and graduate level interns and research assistants.
-- -Authored and co-authored 7 peer-review publications 
-- -Co-authored over $5 million in research grant proposals
-
-# Past research Appointments
-\begin{tabular}{p{1cm}|p{15cm}}
-2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
-                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
- &                                                                                              \\
-2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
- &                                                                                              \\
-2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
-                     & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
- &                                                                                              \\
-2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
- &                                                                                              \\
-2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
- &                                                                                              \\
-2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
- & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
- &                                                                                              \\ 
-\end{tabular}
-
 # Peer-reviewed Publications 
 
-**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (submitted) *Consequences of human-ignited wildfires in the US: from the Wildland-Urban Interface to wildlands*. Nature Communications
+**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (under evaluation) *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Science Advances.
 
-Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (submitted) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications.
+Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (accepted) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications.
 
 Balch, J., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
 
@@ -93,6 +62,43 @@ Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L
 # Book Chapters
 
 Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
+
+# Technology Proficiencies
+
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS Platform, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
+
+**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
+
+# Current research appointment
+**Postdoctoral Research Associate** \hfill 2016--present
+
+*Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
+
+- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
+- -Wrote clean, efficient, reproducible code to analyze big geospatial data
+- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
+- -Mentored/managed undergraduate and graduate level interns and research assistants.
+- -Authored and co-authored 5 peer-review publications with 6 more in progress or review
+- -Co-authored over $5 million in research grant proposals
+
+# Past research Appointments
+\begin{tabular}{p{1cm}|p{15cm}}
+2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
+                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
+ &                                                                                              \\
+2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
+ &                                                                                              \\
+2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
+                     & GIS Analyst, United States Department of Agriculture: National Resource Conservation Service \\
+ &                                                                                              \\
+2008                 & Field Researcher, Scott Glacier, Antarctica via University of Maine, Orono                   \\
+ &                                                                                              \\
+2007                 & Field Researcher, Marine Sediments Laboratory, University of Maine, Orono                    \\
+ &                                                                                              \\
+2006                 & Laboratory Technician, Climate Change Institute, University of Maine, Orono                  \\
+ & Numerical Modeling Technician, Numerical Modeling Laboratory, University of Maine, Orono     \\
+ &                                                                                              \\ 
+\end{tabular}
 
 # Teaching Appointments
 
@@ -178,11 +184,3 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 2013 **Professional exhibitor** representing Clark Labs at the Annual Conference of the Association of American Geographers, Los Angeles, CA.
 
 Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests, Ecography
-
-# Technology Proficiencies
-
-**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
-
-**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
-
-
