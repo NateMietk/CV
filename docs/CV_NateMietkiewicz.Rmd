@@ -35,11 +35,29 @@ web: nathanmietkiewicz.com
 **University of Maine, Orono, ME**
 - **B.S.**, Earth Science, 2009
 
+# Technology Proficiencies
+
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS Platform, QGis, IDRISI/Terrset, Adobe CS6 Illustrator
+
+**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
+
+# Software and Dataset Development
+
+**ICS-209-PLUS** - An all-hazards dataset mined from the US National Incident Management System 1999-2014. doi: 10.6084/m9.figshare.8048252.v8. url: https://figshare.com/articles/ICS209-PLUS_Cleaned_databases/8048252
+
+**Fire Events Delineation (FIRED)** - Events-delineation algorithm used to derive fire events from the MODIS burned area product (MCD64A1) for the U.S. from 2001-19. In review.
+
+**FIREDr** - R package to automatically download and process MODIS burned area product (MCD64A1). Unpublished. url: https://github.com/NateMietk/FIREDr
+
 # Peer-reviewed Publications 
+
+Rogan, J., Elmes, A., Rosenblum, H., **Mietkiewicz, N.**, Kulakowski, D., Stow, D. (under evaluation). *Drivers of fire ignition in Southern California Mediterranean-type Ecosystems*. Fire Ecology.
+
+St. Denis, L, **Mietkiewicz, N**, Short, K C, Buckland, M, Balch, J K, (under evaluation) *ICS-209-PLUS - An all-hazards dataset mined from the US National Incident Management System 1999-2014*. Scientific Data.
 
 **N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (under evaluation) *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Science Advances.
 
-Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (accepted) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications.
+Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L. A. St. Denis, R. C. Nagy, V. Iglesias, J. T. Abatzoglou, and J. K. Balch. (2019) *Understanding and predicting extreme wildfires in the contiguous United States*. Ecological Applications. doi:10.1002/eap.1898.
 
 Balch, J., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
 
@@ -63,29 +81,30 @@ Joseph, M. B., M. W. Rossi, **N. P. Mietkiewicz**, A. L. Mahood, M. E. Cattau, L
 
 Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Aranganathan, editor. Land Resources Monitoring, Modeling, and Mapping with Remote Sensing.
 
-# Technology Proficiencies
-
-**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS Platform, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
-
-**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
-
 # Current research appointment
 **Postdoctoral Research Associate** \hfill 2016--present
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
-- -Wrote clean, efficient, reproducible code to analyze big geospatial data
+- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms.
+- -Wrote clean, efficient, reproducible R code to analyze big geospatial data.
 - -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
 - -Mentored/managed undergraduate and graduate level interns and research assistants.
-- -Authored and co-authored 5 peer-review publications with 6 more in progress or review
-- -Co-authored over $5 million in research grant proposals
+- -Authored and co-authored 6 peer-review publications with 3 more in review and 10 in progress.
+- -Authored and Co-authored over $15 million in research grant proposals.
+
+**Research Assistant** \hfill 2013-2016
+
+*Graduate School of Geography, Clark University, Worcester, MA*
+
+- -Developed and led a successful field campaign located in the backcountry of the Colorado Rockies.
+- -Managed a team of 8 undergraduate and graduate students in remote, mountainous areas for 18 weeks over the course of 2 summers.
+- -Collected over 2,000 tree cores, 1,000 seedling/sampling samples, and data ranging over 3 projects, resulting in 4 peer-reviewed publications and my dissertation.
+- -Synthesized field data that was fed into large wildfire behavior prediction models under current and 3 future climate scenarios across the Southern Rocky Mountains.
+- -Managed the Forest Ecology Lab, where duties included maintaining, ordering, inventorying, and supporting both computer and field equipment for the research and classroom laboratories.
 
 # Past research Appointments
 \begin{tabular}{p{1cm}|p{15cm}}
-2013 - 2016          & Research Assistant, Forest Ecology Research Laboratory, Clark University                     \\
-                     & Forest Ecology Research Laboratory Manager, Clark University                                 \\
- &                                                                                              \\
 2012                 & Research and Development, Clark Labs, Worcester, MA                                          \\
  &                                                                                              \\
 2011                 & GIS Consultant, Department of Public Works, Ashland, MA                                      \\
@@ -121,12 +140,14 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 \end{tabular}
 
 # Grants, Awards, and Fellowships
+
 \begin{tabular}{p{1cm}|p{15cm}}
-2018 & \$1,758,933 - PREEVENTS Track 2: Coupled extremes: Understanding and predicting how droughts, fires, and floods interact. Senior Personal. Pending.\\
-     & \$931,768 - CAREER: Fire impacts on forest carbon recovery in a warming world: training the next generation of Earth analysts by exploring a missing scale of observations. Postdoctoral Associate Support. Pending. \\
+2019 & \$898,997 - NSF RIDIR Proposal: The next generation of historical settlement data products for the conterminous U.S. over 150 Years. Senior Personal. Pending.  \\ 
      &                                                                                                                              \\
-2017 & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University
-                                               \\
+2018 & \$1,287,690 - Macroscale Resilience: Assessing the recovery of western U.S. forests to compound disturbance and enabling continental-scale exploration of resilience through open NEON science. Senior Personal. Pending. \\
+     & \$931,768 - CAREER: Fire impacts on forest carbon recovery in a warming world: training the next generation of Earth analysts by exploring a missing scale of observations. Postdoctoral Associate Support.  \\
+     &                                                                                                                              \\
+2017 & \$1200 - Fire Predicition Across Scales conference travel award - Columbia University                                        \\
      &                                                                                                                              \\
 2015 & \$700 - Clark University’s Outstanding Teaching Assistant Award                                                              \\
      & \$300 - Marion I. Wright ’46 Travel Award, Fall 2015                                                                         \\
@@ -145,6 +166,16 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 # Professional Presentations
 
+2019 **Mietkiewicz, N.**. *Characterizing wildfire risk to the wildland-urban interface in the U.S.* IGNITE talk at the USDA Forest Service Stakeholder Workshop: Urban and Wildland-Urban Interface Forests Under Changing Conditions, Denver, CO, USA. Invitation.
+
+2019 **Mietkiewicz, N. P.**, Balch, J. K., Schoennagel T., Leyk S., St. Denis L., Bradley B. A., *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Paper presentation at the International Association of Wildland Fire 6th Fire Behavior and Fuels Conference, Marseille, France. Invitation.
+
+2019 **Mietkiewicz, N. P.**, Balch, J. K., Schoennagel T., Leyk S., St. Denis L., Bradley B. A. *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Poster presentation at the CIRES Rendezvous, Boulder, CO.
+
+2019 **Mietkiewicz N.** *Modeling wildfire in the 21st century: big data and machine learning in the cloud*. Flashtalk at the North Central Climate Adaptation Science Center Open House, Boulder, CO. Invitation.
+
+2019  **Mietkiewicz, N. P.**, Balch, J. K., Schoennagel T., Leyk S., St. Denis L., Bradley B. A. *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Poster presentation at the USGS North Central Climate Adaptation Science Center Open House, Boulder, CO. Invitation.
+
 2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., Schoennagel, T. *Drivers of historic and future wildfire occurrence across the United States: the relative contribution of human ignitions vs climate to fire size and probability*.  Presentation at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
 
 2017 **Mietkiewicz, N.**, Balch, J., St. Denis, L., *Human-ignited fires at the wildland-urban interface: consequences and costs*.  Presentation at the Ecological Society of America Portland, OR, USA.
@@ -162,6 +193,14 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 2012 **Mietkiewicz, N.**, Kulakowski, D., and Rogan, J. *A century of ecological change in a subalpine forest of the Swiss Alps*. Paper presented at the Annual Conference of the Association of American Geographers, New York, NY.
 
 # Outreach, Synergistic Activities, and Professional Development
+
+Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests, Ecography.
+
+2019 **Invited Participant** at the USDA Forest Service Stakeholder Workshop: Urban and Wildland-Urban Interface Forests Under Changing Conditions, Denver, CO.
+
+2019 **Inviited Participant** at the USGS North Central Climate Adaptation Science Center Open House, Boulder, CO.
+
+2019 **Invited Participant** at a Global WUI Working Group at the International Association of Wildland Fire 6th Fire Behavior and Fuels Conference, Marseille, France.
 
 2018 **Invite Participant** in the Environmental Extremes CodeFest, Univeristy of Colorado, Boulder, CO.
 
@@ -183,4 +222,6 @@ Rogan, J., and **N. Mietkiewicz**. 2015. *Land Cover Change Detection* in A. Ara
 
 2013 **Professional exhibitor** representing Clark Labs at the Annual Conference of the Association of American Geographers, Los Angeles, CA.
 
-Peer-reviewed for the following journals: Ecology and Evolution, International Journal of Wildfire, Open Access Forests, Ecography
+# Media Contributions
+
+2019 J. Balch, M. Cattau, J. McGlinchy, **N. Mietkiewicz**, and V. Scholl worked with *PBS Nova* crew filming in Cold Springs wildfire field site for *Wildfires*.
